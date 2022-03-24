@@ -1,7 +1,4 @@
 Hello there 👋
-I’m @baumkuchenn
-I’m interested in ...
-I’m currently learning ...
 
 <!---
 baumkuchenn/baumkuchenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
